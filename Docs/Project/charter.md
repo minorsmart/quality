@@ -5,7 +5,7 @@
 De gezamenlijke minoren van de opleiding HAN Bedrijfskunde (MSI, DBI ...) willen beter kunnen sturen op kwaliteit. Bij alle teams heerst het gevoel dat het programma en de uitvoering hiervan kan worden verbeterd. Echter momenteel zijn de kritische knelpunten en oorzaken niet goed zichtbaar. Hiermee is het zeer moeilijk om sturing te geven aan een verbetercyclus (PDCA). Er is een dringende behoefte aan een volwaardig kwaliteitsysteem.
 
 ## Scope
-* Het uiteindelijke doel een volledige kwaliteitsorganisatie (kan opgesplitst worden in deelprojecten).
+* Het uiteindelijke doel is een volledige kwaliteitsorganisatie (kan opgesplitst worden in deelprojecten).
 * Met het systeem moeten de minorteams *evidence based* beslissingen kunnen nemen. 
 * Het systeem moet kennisdeling tussen minoren bevorderen (transparantie) en efficiënt zijn.
 
