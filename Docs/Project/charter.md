@@ -17,7 +17,7 @@ De gezamelijke minoren van de opleiding HAN Bedrijfskunde (MSI, DBI ...) willen 
 * Who are on this project:
 	* <a href="https://witusj.github.io/MinorSI/" target="_blank">Minor Smart Industry</a> :
 		* <a href="mailto:witek.tenhove@han.nl?Subject=Opdracht%20D-cluster%20Kwaliteitsysteem" target="_top">Witek ten Hove</a>
-	* Minor Digital Business and Innovation:
+	* https://dbi.bkhan.nl/ <a href="https://dbi.bkhan.nl/" target="_blank">Minor Digital Business and Innovation</a> :
 		* <a href="mailto:wiet.verkooijen@han.nl?Subject=Opdracht%20D-cluster%20Kwaliteitsysteem" target="_top">Wiet Verkooijen</a>
 	* ...
 	
