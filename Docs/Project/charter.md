@@ -10,6 +10,10 @@ De gezamelijke minoren van de opleiding HAN Bedrijfskunde (MSI, DBI ...) willen 
 * Het systeem moet kennisdeling tussen minoren bevorderen (transparantie) en efficiënt zijn.
 
 ## Personnel
+* Studenten D-cluster:
+        * ...
+	* ...
+	* ...
 * Who are on this project:
 	* Minor Smart Industry:
 		* <a href="mailto:witek.tenhove@han.nl?Subject=Opdracht%20D-cluster%20Kwaliteitsysteem" target="_top">Witek ten Hove</a>
