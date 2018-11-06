@@ -1,54 +1,32 @@
-# Project Charter
+# Project Charter Kwaliteitsysteem BK Minoren
 
 ## Business background
 
-* Who is the client, what business domain the client is in.
-* What business problems are we trying to address?
+De gezamelijke minoren van de opleiding HAN Bedrijfskunde (MSI, DBI ...) willen beter kunnen sturen op kwaliteit. Bij alle teams heerst het gevoel dat het programma en de uitvoering hiervan kan worden verbeterd. Echter momenteel zijn de kritische knelpunten en oorzaken niet goed zichtbaar. Hiermee is het zeer moeilijk om sturing te geven aan een verbetercyclus (PDCA). Er is een dringende behoefte aan een volwaardig kwaliteitsysteem.
 
 ## Scope
-* What data science solutions are we trying to build?
-* What will we do?
-* How is it going to be consumed by the customer?
+* Het uiteindelijke doel een volledige kwaliteitsorganisatie (kan opgesplitst worden in deelprojecten).
+* Met het systeem moeten de minorteams *evidence based* beslissingen kunnen nemen. 
+* Het systeem moet kennisdeling tussen minoren bevorderen (transparantie) en efficiënt zijn.
 
 ## Personnel
 * Who are on this project:
-	* Microsoft:
-		* Project lead
-		* PM
-		* Data scientist(s)
-		* Account manager
-	* Client:
-		* Data administrator
-		* Business contact
+	* Minor Smart Industry:
+		* <a href="mailto:witek.tenhove@han.nl?Subject=Opdracht%20D-cluster%20Kwaliteitsysteem" target="_top">Witek ten Hove</a>
+	* Minor Digital Business and Innovation:
+		* <a href="mailto:wiet.verkooijen@han.nl?Subject=Opdracht%20D-cluster%20Kwaliteitsysteem" target="_top">Wiet Verkooijen</a>
+	* ...
 	
 ## Metrics
-* What are the qualitative objectives? (e.g. reduce user churn)
-* What is a quantifiable metric  (e.g. reduce the fraction of users with 4-week inactivity)
-* Quantify what improvement in the values of the metrics are useful for the customer scenario (e.g. reduce the  fraction of users with 4-week inactivity by 20%) 
-* What is the baseline (current) value of the metric? (e.g. current fraction of users with 4-week inactivity = 60%)
-* How will we measure the metric? (e.g. A/B test on a specified subset for a specified period; or comparison of performance after implementation to baseline)
+* Nader te bepalen
+* KPIs effectiviteit
+* KPIs efficiëntie
 
-## Plan
-* Phases (milestones), timeline, short description of what we'll do in each phase.
+## Planning
+* Nader te bepalen
 
-## Architecture
-* Data
-  * What data do we expect? Raw data in the customer data sources (e.g. on-prem files, SQL, on-prem Hadoop etc.)
-* Data movement from on-prem to Azure using ADF or other data movement tools (Azcopy, EventHub etc.) to move either
-  * all the data, 
-  * after some pre-aggregation on-prem,
-  * Sampled data enough for modeling 
-
-* What tools and data storage/analytics resources will be used in the solution e.g.,
-  * ASA for stream aggregation
-  * HDI/Hive/R/Python for feature construction, aggregation and sampling
-  * AzureML for modeling and web service operationalization
-* How will the score or operationalized web service(s) (RRS and/or BES) be consumed in the business workflow of the customer? If applicable, write down pseudo code for the APIs of the web service calls.
-  * How will the customer use the model results to make decisions
-  * Data movement pipeline in production
-  * Make a 1 slide diagram showing the end to end data flow and decision architecture
-    * If there is a substantial change in the customer's business workflow, make a before/after diagram showing the data flow.
+## Ontwerpcriteria
+* Nader te bepalen
 
 ## Communication
-* How will we keep in touch? Weekly meetings?
-* Who are the contact persons on both sides?
+* Nader te bepalen
